@@ -117,6 +117,7 @@ class Solution:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0757-set-intersection-size-at-least-two](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
@@ -139,6 +140,7 @@ class Solution:
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0757-set-intersection-size-at-least-two](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2751-robot-collisions](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2751-robot-collisions/) | Hard |
 ## Simulation
@@ -169,4 +171,8 @@ class Solution:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/0657-robot-return-to-origin/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0757-set-intersection-size-at-least-two](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 <!---LeetCode Topics End-->
