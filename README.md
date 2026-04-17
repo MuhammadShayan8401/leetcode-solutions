@@ -119,6 +119,7 @@ class Solution:
 | ------- | ------- |
 | [0757-set-intersection-size-at-least-two](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1018-binary-prefix-divisible-by-5](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1262-greatest-sum-divisible-by-three](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
@@ -186,6 +187,7 @@ class Solution:
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1018-binary-prefix-divisible-by-5](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
