@@ -117,6 +117,7 @@ class Solution:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0874-walking-robot-simulation](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2751-robot-collisions](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2751-robot-collisions/) | Hard |
@@ -144,11 +145,13 @@ class Solution:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2751-robot-collisions](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2751-robot-collisions/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0874-walking-robot-simulation](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Math
