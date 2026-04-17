@@ -143,6 +143,7 @@ class Solution:
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2751-robot-collisions](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2751-robot-collisions/) | Hard |
 ## Hash Table
@@ -161,4 +162,8 @@ class Solution:
 | [0181-employees-earning-more-than-their-managers](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0584-find-customer-referee](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [0620-not-boring-movies](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/0620-not-boring-movies/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 <!---LeetCode Topics End-->
