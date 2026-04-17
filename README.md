@@ -119,6 +119,7 @@ class Solution:
 | ------- | ------- |
 | [0757-set-intersection-size-at-least-two](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1262-greatest-sum-divisible-by-three](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2751-robot-collisions](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2751-robot-collisions/) | Hard |
@@ -128,6 +129,7 @@ class Solution:
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1262-greatest-sum-divisible-by-three](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -142,6 +144,7 @@ class Solution:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0757-set-intersection-size-at-least-two](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
+| [1262-greatest-sum-divisible-by-three](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2751-robot-collisions](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2751-robot-collisions/) | Hard |
 ## Simulation
@@ -179,6 +182,7 @@ class Solution:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0757-set-intersection-size-at-least-two](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
+| [1262-greatest-sum-divisible-by-three](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
