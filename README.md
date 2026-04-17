@@ -126,6 +126,7 @@ class Solution:
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [2751-robot-collisions](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2751-robot-collisions/) | Hard |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Dynamic Programming
@@ -165,6 +166,7 @@ class Solution:
 | [1015-smallest-integer-divisible-by-k](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -198,4 +200,5 @@ class Solution:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->
