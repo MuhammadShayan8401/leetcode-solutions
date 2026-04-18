@@ -202,4 +202,12 @@ class Solution:
 | ------- | ------- |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2872-maximum-number-of-k-divisible-components/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2872-maximum-number-of-k-divisible-components/) | Hard |
 <!---LeetCode Topics End-->
