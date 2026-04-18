@@ -174,6 +174,7 @@ class Solution:
 | [1015-smallest-integer-divisible-by-k](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3783-mirror-distance-of-an-integer](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
