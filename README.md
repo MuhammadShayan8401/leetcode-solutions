@@ -122,6 +122,7 @@ class Solution:
 | [1018-binary-prefix-divisible-by-5](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1262-greatest-sum-divisible-by-three](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2141-maximum-running-time-of-n-computers](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
@@ -221,5 +222,10 @@ class Solution:
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 <!---LeetCode Topics End-->
