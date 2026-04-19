@@ -193,6 +193,7 @@ class Solution:
 | [0620-not-boring-movies](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1193-monthly-transactions-i/) | Medium |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
