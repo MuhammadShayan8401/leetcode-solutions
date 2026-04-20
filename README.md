@@ -124,6 +124,7 @@ class Solution:
 | [1590-make-sum-divisible-by-p](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2141-maximum-running-time-of-n-computers](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
@@ -204,6 +205,7 @@ class Solution:
 | ------- | ------- |
 | [0757-set-intersection-size-at-least-two](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [1262-greatest-sum-divisible-by-three](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2141-maximum-running-time-of-n-computers](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
