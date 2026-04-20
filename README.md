@@ -133,6 +133,7 @@ class Solution:
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3623-count-number-of-trapezoids-i](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3623-count-number-of-trapezoids-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -174,6 +175,7 @@ class Solution:
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
+| [3623-count-number-of-trapezoids-i](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3623-count-number-of-trapezoids-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -181,6 +183,7 @@ class Solution:
 | [1015-smallest-integer-divisible-by-k](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3623-count-number-of-trapezoids-i](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3623-count-number-of-trapezoids-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Database
@@ -235,4 +238,8 @@ class Solution:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3623-count-number-of-trapezoids-i](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3623-count-number-of-trapezoids-i/) | Medium |
 <!---LeetCode Topics End-->
