@@ -122,6 +122,7 @@ class Solution:
 | [1018-binary-prefix-divisible-by-5](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1262-greatest-sum-divisible-by-three](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -231,6 +232,7 @@ class Solution:
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2872-maximum-number-of-k-divisible-components/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -246,4 +248,8 @@ class Solution:
 | ------- | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3623-count-number-of-trapezoids-i/) | Medium |
 | [3625-count-number-of-trapezoids-ii](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3625-count-number-of-trapezoids-ii/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 <!---LeetCode Topics End-->
