@@ -129,6 +129,7 @@ class Solution:
 | [2141-maximum-running-time-of-n-computers](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2751-robot-collisions](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2751-robot-collisions/) | Hard |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
@@ -207,6 +208,7 @@ class Solution:
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -252,4 +254,8 @@ class Solution:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 <!---LeetCode Topics End-->
