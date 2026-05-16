@@ -117,6 +117,7 @@ class Solution:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0757-set-intersection-size-at-least-two](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1018-binary-prefix-divisible-by-5](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
@@ -240,6 +241,7 @@ class Solution:
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 ## Two Pointers
