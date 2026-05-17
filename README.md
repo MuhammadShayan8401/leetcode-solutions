@@ -122,6 +122,7 @@ class Solution:
 | [0874-walking-robot-simulation](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1018-binary-prefix-divisible-by-5](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1262-greatest-sum-divisible-by-three](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
+| [1306-jump-game-iii](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -236,6 +237,7 @@ class Solution:
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1306-jump-game-iii](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2872-maximum-number-of-k-divisible-components/) | Hard |
 ## Binary Search
@@ -265,4 +267,8 @@ class Solution:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2833-furthest-point-from-origin](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1306-jump-game-iii](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1306-jump-game-iii/) | Medium |
 <!---LeetCode Topics End-->
