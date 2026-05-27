@@ -179,6 +179,7 @@ class Solution:
 | [1590-make-sum-divisible-by-p](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
 | [3623-count-number-of-trapezoids-i](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3623-count-number-of-trapezoids-i/) | Medium |
 | [3625-count-number-of-trapezoids-ii](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3625-count-number-of-trapezoids-ii/) | Hard |
@@ -212,6 +213,7 @@ class Solution:
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
