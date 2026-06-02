@@ -139,6 +139,7 @@ class Solution:
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3623-count-number-of-trapezoids-i](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3623-count-number-of-trapezoids-i/) | Medium |
 | [3625-count-number-of-trapezoids-ii](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3625-count-number-of-trapezoids-ii/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -164,6 +165,7 @@ class Solution:
 | [2141-maximum-running-time-of-n-computers](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2751-robot-collisions](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2751-robot-collisions/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,6 +223,7 @@ class Solution:
 | [1262-greatest-sum-divisible-by-three](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2141-maximum-running-time-of-n-computers](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,10 +251,12 @@ class Solution:
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/2141-maximum-running-time-of-n-computers/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MuhammadShayan8401/leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
